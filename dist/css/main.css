@@ -33,6 +33,10 @@ body{
     padding: 0 1rem;;
 }
 
+.fa-play{
+    padding-left: .5rem;
+}
+
 .container{
     margin: 0;
     padding: 0;
