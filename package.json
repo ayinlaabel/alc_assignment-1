@@ -1,0 +1,25 @@
+{
+  "name": "ass",
+  "version": "1.0.0",
+  "description": "Alc Assignment",
+  "main": "index.js",
+  "homepage": "https://ayinlaabel.github.io/alc_assignment-1",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":"gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayinlaabel/alc_assignment-1.git"
+  },
+  "author": "Krane Abel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayinlaabel/alc_assignment-1/issues"
+  },
+  "homepage": "https://github.com/ayinlaabel/alc_assignment-1#readme"
+}
